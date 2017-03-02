@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="salvar">salvar</string>
+    <string name="data_escolhida">Data Escolhida</string>
+    <string name="titulo">Titulo</string>
+    <string name="msg">Mensagem</string>
+    <string name="fechar">Fechar</string>
+    <string name="ok">OK</string>
+    <string name="fecha">Close</string>
+    <string name="clicou_ok">Legal</string>
+    <string name="cliclou_em_fechar">Pode fechar</string>
+</resources>
